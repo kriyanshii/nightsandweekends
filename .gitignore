@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+.cache/
+dist/
+.parcel-cache/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+*.log
+*.tsbuildinfo
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+
+# Other
+.DS_Store
+Thumbs.db
